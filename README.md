@@ -12,3 +12,5 @@ Brief Introduction of me
 📫 How to reach me<br>
 [Gmail] sprout1021@gmail.com [Naver] sprout1021@naver.com <br>
 [Instagram] @mmin_1021 <br>
+
+[Minkyoung-Cho's github status] (https://github-readname-stats,vercel.app/api?username=Minkyoun-Cho&show_icons=true)
