@@ -13,4 +13,4 @@ Brief Introduction of me
 [Gmail] sprout1021@gmail.com [Naver] sprout1021@naver.com <br>
 [Instagram] @mmin_1021 <br>
 
-[Minkyoung-Cho's github status] (https://github-readme-stats.vercel.app/api?username=Minkyoun-Cho&show_icons=true)
+[Minkyoung-Cho's github status] (https://github-readme-stats.vercel.app/api?username=Minkyoung-Cho&show_icons=true)
